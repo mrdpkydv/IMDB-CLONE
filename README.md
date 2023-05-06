@@ -1,6 +1,10 @@
 # imdb-clone
 My project is IMDB-Clone which I made cloning real imdb website for our course project.
 
+This is the link you can see -
+
+https://mrdpkydv.github.io/imdb-clone/
+
 # Screenshot
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/132705827/236611265-b170fe2c-75b3-4fe8-a1da-66933e07befe.png)
